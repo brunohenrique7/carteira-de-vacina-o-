@@ -1,3 +1,4 @@
+
 /* Renata */
 header{
     display: flex;
@@ -9,7 +10,9 @@ header{
 }
 
 body{
-    background: rgb(251, 216, 251);
+    background-color: thistle;
+    background-image: url('/src/main/resources/static/img/paper.jpg');
+    background-size: contain;
     font-family: Arial, Helvetica, sans-serif;
 }
 
